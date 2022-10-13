@@ -8,7 +8,6 @@
     // 'true' != true // ---> true
     // 'true' !== true // ---> true
 
-
 // ! Problem #2: What are the three different ways you can declare a variable? And what is the differences between them? 
 
     // The three different ways to declare a variable are var, let, and const. 
